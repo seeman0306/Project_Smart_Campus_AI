@@ -1,0 +1,7 @@
+{
+  "name": "SmartCampus AI",
+  "description": "A production-ready SaaS platform for students featuring AI-powered note scanning, content shortening, translation, image generation, and campus event management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
